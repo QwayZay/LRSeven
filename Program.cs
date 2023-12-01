@@ -22,6 +22,7 @@ namespace CalculatorLRSeven
             Console.WriteLine("2. Вычесть ( - )");
             Console.WriteLine("3. Умножить ( * )");
             Console.WriteLine("4. Разделить ( / )");
+            Console.WriteLine("5. Отмена");
 
             string act = Convert.ToString(Console.ReadLine());
 
@@ -44,6 +45,9 @@ namespace CalculatorLRSeven
                     {
                         Console.WriteLine("Ответ: " + (a / b));
                     }
+                    break;
+                case "5":
+                    Console.WriteLine("Вычисление отменено.");
                     break;
             }
 
