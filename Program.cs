@@ -37,7 +37,13 @@ namespace CalculatorLRSeven
                     Console.WriteLine("Ответ: " + (a * b));
                     break;
                 case "4":
-                    Console.WriteLine("Ответ: " + (a / b));
+                    if (b == 0)
+                    {
+                        Console.WriteLine("Ошибка! Деление на ноль невозможно!");
+                    } else
+                    {
+                        Console.WriteLine("Ответ: " + (a / b));
+                    }
                     break;
             }
 
