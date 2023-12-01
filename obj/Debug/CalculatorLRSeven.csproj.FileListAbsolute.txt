@@ -1,0 +1,7 @@
+C:\Users\qwayz\source\repos\CalculatorLRSeven\CalculatorLRSeven\bin\Debug\CalculatorLRSeven.exe.config
+C:\Users\qwayz\source\repos\CalculatorLRSeven\CalculatorLRSeven\bin\Debug\CalculatorLRSeven.exe
+C:\Users\qwayz\source\repos\CalculatorLRSeven\CalculatorLRSeven\bin\Debug\CalculatorLRSeven.pdb
+C:\Users\qwayz\source\repos\CalculatorLRSeven\CalculatorLRSeven\obj\Debug\CalculatorLRSeven.csproj.AssemblyReference.cache
+C:\Users\qwayz\source\repos\CalculatorLRSeven\CalculatorLRSeven\obj\Debug\CalculatorLRSeven.csproj.CoreCompileInputs.cache
+C:\Users\qwayz\source\repos\CalculatorLRSeven\CalculatorLRSeven\obj\Debug\CalculatorLRSeven.exe
+C:\Users\qwayz\source\repos\CalculatorLRSeven\CalculatorLRSeven\obj\Debug\CalculatorLRSeven.pdb
